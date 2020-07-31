@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\buyCourse\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_scan.png",
+        "source": "F:\\buyCourse\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_scan.png"
+    },
+    {
+        "merged": "F:\\buyCourse\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_refresh.png",
+        "source": "F:\\buyCourse\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    }
+]
